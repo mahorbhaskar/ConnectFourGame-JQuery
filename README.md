@@ -1,7 +1,6 @@
 
 <html>
   <head>
-    <title></title>
   </head>
   <body>
     <h1>ConnectFourGame-JQuery</h1>
@@ -32,8 +31,10 @@ As well as the basic benefits of playing games like practice following rules, ho
         <li>Instigates prediction of the outcome of alternative moves – for your own play as well as your opponent’s. Keeping an eye on their moves keeps you one step ahead!</li>
         <li>Learn from experience – if you can ever get in a position to win by 2 options in one move, then you will never forget it!</li>
       </ul>
+    ![](images/image.gif)
   </body>
-  </html>
-![](images/image.gif)
+ </html>
+ 
+
 
 
