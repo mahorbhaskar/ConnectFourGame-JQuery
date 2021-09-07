@@ -1,9 +1,9 @@
 .board button {
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
     background-color: gray;
     border-radius: 50px;
-    border: 4px solid black;
+    border: 2px solid black;
     margin: 1px;
   }
   
